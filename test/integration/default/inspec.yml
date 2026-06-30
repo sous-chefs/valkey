@@ -1,0 +1,7 @@
+---
+name: default
+title: Valkey default tests
+maintainer: Sous Chefs
+license: Apache-2.0
+summary: Default integration tests for the valkey cookbook
+version: 1.0.0
